@@ -1,0 +1,9 @@
+path: .
+train: ./images/train/
+val: ./images/val/
+# test:
+
+names:
+  0: green
+  1: red
+  2: sphere
